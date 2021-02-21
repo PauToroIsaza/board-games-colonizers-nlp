@@ -1,0 +1,396 @@
+Value,Type
+Abstract Games,Subdomain
+Children’s Games,Subdomain
+Customizable Games,Subdomain
+Family Games,Subdomain
+Party Games,Subdomain
+Strategy Games,Subdomain
+Thematic Games,Subdomain
+Wargames,Subdomain
+Abstract Strategy ,Category
+Action / Dexterity ,Category
+Adventure ,Category
+Age of Reason ,Category
+American Civil War ,Category
+American Indian Wars ,Category
+American Revolutionary War ,Category
+American West ,Category
+Ancient ,Category
+Animals ,Category
+Arabian ,Category
+Aviation / Flight ,Category
+Bluffing ,Category
+Book ,Category
+Card Game ,Category
+Children's Game ,Category
+City Building ,Category
+Civil War ,Category
+Civilization ,Category
+Collectible Components ,Category
+Comic Book / Strip ,Category
+Deduction ,Category
+Dice ,Category
+Economic ,Category
+Educational ,Category
+Electronic ,Category
+Environmental ,Category
+Expansion for Base-game ,Category
+Exploration ,Category
+Fan Expansion ,Category
+Fantasy ,Category
+Farming ,Category
+Fighting ,Category
+Game System ,Category
+Horror ,Category
+Humor ,Category
+Industry / Manufacturing ,Category
+Korean War ,Category
+Mafia ,Category
+Math ,Category
+Mature / Adult ,Category
+Maze ,Category
+Medical ,Category
+Medieval ,Category
+Memory ,Category
+Miniatures ,Category
+Modern Warfare ,Category
+Movies / TV / Radio theme ,Category
+Murder/Mystery ,Category
+Music ,Category
+Mythology ,Category
+Napoleonic ,Category
+Nautical ,Category
+Negotiation ,Category
+Novel-based ,Category
+Number ,Category
+Party Game ,Category
+Pike and Shot ,Category
+Pirates ,Category
+Political ,Category
+Post-Napoleonic ,Category
+Prehistoric ,Category
+Print & Play ,Category
+Puzzle ,Category
+Racing ,Category
+Real-time ,Category
+Religious ,Category
+Renaissance ,Category
+Science Fiction ,Category
+Space Exploration ,Category
+Spies/Secret Agents ,Category
+Sports ,Category
+Territory Building ,Category
+Trains ,Category
+Transportation ,Category
+Travel ,Category
+Trivia ,Category
+Video Game Theme ,Category
+Vietnam War ,Category
+Wargame ,Category
+Word Game ,Category
+World War I ,Category
+World War II ,Category
+Zombies,Category
+Africa,Continent
+Antarctica ,Continent
+Asia,Continent
+Europe,Continent
+North America,Continent
+South America,Continent
+Australia,Continent
+Afghanistan,Country
+Albania,Country
+Algeria,Country
+Andorra,Country
+Angola,Country
+Argentina,Country
+Armenia,Country
+Australia,Country
+Austria,Country
+Austria-Hungary,Country
+Azerbaijan,Country
+Bahamas,Country
+Bahrain,Country
+Barbados,Country
+Belarus,Country
+Belgium,Country
+Bhutan,Country
+Bolivia,Country
+Bosnia and Herzegovina,Country
+Botswana,Country
+Brazil,Country
+Bulgaria,Country
+Burma,Country
+Burundi,Country
+Cambodia,Country
+Canada,Country
+Cape Verde,Country
+Chad,Country
+Chile,Country
+China,Country
+Colombia,Country
+Costa Rica,Country
+Croatia,Country
+Cuba,Country
+Cyprus,Country
+Czech Republic,Country
+Czechoslovakia,Country
+Democratic Republic of the Congo,Country
+Denmark,Country
+Dominican Republic,Country
+Ecuador,Country
+Egypt,Country
+El Salvador,Country
+England,Country
+Estonia,Country
+Ethiopia,Country
+Finland,Country
+France,Country
+Georgia,Country
+Germany,Country
+Ghana,Country
+Great Britain,Country
+Greece,Country
+Grenada,Country
+Guatemala,Country
+Haiti,Country
+Honduras,Country
+Hong Kong,Country
+Hungary,Country
+Iceland,Country
+Inca Empire,Country
+India,Country
+Indonesia,Country
+Iran,Country
+Iraq,Country
+Ireland,Country
+Israel,Country
+Italy,Country
+Jamaica,Country
+Japan,Country
+Jordon,Country
+Kenya,Country
+Kiribati,Country
+Korean War ,Country
+Kuwait,Country
+Laos,Country
+Latvia,Country
+Lebanon,Country
+Liberia,Country
+Libya,Country
+Liechtenstein,Country
+Lithuania,Country
+Luxembourg,Country
+Macao,Country
+Madagascar,Country
+Malaysia,Country
+Mali,Country
+Malta,Country
+Mauritius,Country
+Mexico,Country
+Moldova,Country
+Monaco,Country
+Mongolia,Country
+Morocco,Country
+Namibia,Country
+Nepal,Country
+New Zealand,Country
+Nicaragua,Country
+Nigeria,Country
+North Macedonia,Country
+Norway,Country
+Ottoman Empire,Country
+Pakistan,Country
+Panama,Country
+Papal States,Country
+Papua New Guinea,Country
+Paraguay,Country
+Peru,Country
+Philippines,Country
+Poland,Country
+Portugal,Country
+Prussia,Country
+Puerto Rico,Country
+Qatar,Country
+Romania,Country
+Russia,Country
+Rwanda,Country
+Saint Lucia,Country
+San Marino,Country
+Saudi Arabia,Country
+Scotland,Country
+Senegal,Country
+Serbia,Country
+Singapore,Country
+Slovakia,Country
+Slovenia,Country
+Solomon Islands,Country
+Somalia,Country
+South Africa,Country
+Soviet Union,Country
+Spain,Country
+Sri Lanka,Country
+Sudan,Country
+Sweden,Country
+Switzerland,Country
+Syria,Country
+Taiwan,Country
+Tanzania,Country
+Thailand,Country
+The Netherlands,Country
+Tonga,Country
+Trinidad and Tobago,Country
+Tunisia,Country
+Turkey,Country
+Uganda,Country
+Ukraine,Country
+United Arab Emirates,Country
+United Kingdom,Country
+Uruguay,Country
+USA,Country
+Uzbekistan,Country
+Vanuatu,Country
+Vatican City,Country
+Venezuela,Country
+Vietnam,Country
+Wales,Country
+Yugoslavia,Country
+Zimbabwe,Country
+Aboriginal Australians,Theme
+African Americans,Theme
+Airships / Blimps / Dirigibles / Zeppelins,Theme
+Alchemy,Theme
+Alternate History,Theme
+Amusement Parks / Theme Parks,Theme
+Animal Battles,Theme
+Anime / Manga,Theme
+Anthropomorphic Animals,Theme
+Apache Tribes,Theme
+Arcade Video Games,Theme
+Archaeology / Paleontology,Theme
+Art,Theme
+Astrology,Theme
+Astronomy,Theme
+Attorneys / Courts,Theme
+Automotive Industry,Theme
+Aztecs,Theme
+Bacteria,Theme
+Biology,Theme
+Boardgaming,Theme
+Books / Libraries,Theme
+Canals,Theme
+Cannibals / Cannibalism,Theme
+Care Bears,Theme
+Cemeteries / Graveyards,Theme
+Cereal Games,Theme
+Chemistry,Theme
+Chernobyl,Theme
+Chibis,Theme
+Chivalry / Jousting / Tournaments (Medieval Europe),Theme
+Circus,Theme
+City,Theme
+Climate Change,Theme
+Clowns,Theme
+Colonial,Theme
+Construction,Theme
+Criminality,Theme
+Cryptocurrency,Theme
+Cthulhu Mythos,Theme
+Cyberpunk,Theme
+Deserts,Theme
+Dieselpunk,Theme
+Disney Theme Parks,Theme
+Dolls,Theme
+Dreams / Nightmares,Theme
+Druids,Theme
+Ecology,Theme
+Evolution,Theme
+Fantasy Sports,Theme
+Fashion,Theme
+Fictional Games,Theme
+FIFA World Cup,Theme
+Firefighting,Theme
+Flags identification,Theme
+Flowers,Theme
+Food / Cooking,Theme
+French Foreign Legion,Theme
+Gardening,Theme
+Geocaching,Theme
+Gladiators,Theme
+Hackers,Theme
+Hanseatic League,Theme
+Helicopters,Theme
+Hot Air Balloons,Theme
+Inuit Peoples,Theme
+Jail / Prison (Modern),Theme
+Jewelry,Theme
+Journalism,Theme
+Kaiju,Theme
+King Arthur / The Knights of the Round Table / Camelot,Theme
+Latin American Political Games,Theme
+Love / Romance,Theme
+Mail / Stamps / The Post Office,Theme
+Māori,Theme
+Mayans,Theme
+Mech Warfare,Theme
+Memes,Theme
+Mining,Theme
+Motorcycles,Theme
+Mountains,Theme
+Movie Industry,Theme
+Movies,Theme
+Mushrooms,Theme
+Music Making & Makers,Theme
+My Best Life,Theme
+Mystery / Crime,Theme
+Native Americans / First Peoples,Theme
+Nature,Theme
+Ninjas,Theme
+Nuclear option,Theme
+Nuns,Theme
+Oil / Gas / Petroleum,Theme
+Painting / Paintings,Theme
+Perfume,Theme
+Photography,Theme
+Police,Theme
+Post-Apocalyptic,Theme
+Psychic Powers,Theme
+Psychology,Theme
+Queer / LGBTAIQ,Theme
+Rivers,Theme
+Robots,Theme
+Rodeos,Theme
+Romance of the Three Kingdoms,Theme
+Rubik's Cube,Theme
+Safaris,Theme
+Samurai,Theme
+School / College / University,Theme
+Sci-Fi Sports,Theme
+Science,Theme
+Scouting / Guiding,Theme
+Sewing / Knitting / Cloth-Making,Theme
+Silk Road,Theme
+Spanish Political Games,Theme
+Spooky Old Houses,Theme
+Steampunk,Theme
+Submarines,Theme
+Superheroes,Theme
+Survival,Theme
+Television (TV) Industry,Theme
+Tiki Culture,Theme
+Time Travel,Theme
+Traffic / Driving,Theme
+Trash / Garbage,Theme
+Trees and Forests,Theme
+Tropical,Theme
+Tropical Islands,Theme
+Trucks,Theme
+TV Detectives,Theme
+UFOs,Theme
+Under the Sea,Theme
+US National Parks,Theme
+Vikings,Theme
+Villainy,Theme
+Volcanoes,Theme
+Weather,Theme
+Witches,Theme
